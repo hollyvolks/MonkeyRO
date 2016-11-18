@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Online Client Information</desc>
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>Servidor de Testes</display>
+      	<address>158.69.104.173</address>
+      	<port>6900</port>
+      	<version>55</version>
+      	<langtype>12</langtype>
+		<registrationweb>www.playrag.com.br</registrationweb>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+		</loading>
+		<aid>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+			<admin>2000005</admin>
+			<admin>2000006</admin>
+		</aid>
+   	</connection>
+</clientinfo>

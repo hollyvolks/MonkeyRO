@@ -1,0 +1,35 @@
+﻿  grammar.c
+  libconfig.c
+  scanctx.c
+  scanner.c
+  strbuf.c
+  mt19937ar.c
+  mempool.c
+  mutex.c
+  raconf.c
+  thread.c
+  core.c
+  conf.c
+  db.c
+  ers.c
+  malloc.c
+  md5calc.c
+  nullpo.c
+  random.c
+  showmsg.c
+  socket.c
+  sql.c
+  strlib.c
+  timer.c
+  utils.c
+  cli.c
+  msg_conf.c
+  account.c
+  ipban.c
+  login.c
+  loginchrif.c
+  loginclif.c
+  logincnslif.c
+  loginlog.c
+  login-server.vcxproj -> C:\Users\Pedro\Downloads\Servidor-PlayRag\Servidor PlayRag\Emulador\emulator\vcproj-14\..\login-server.exe
+  login-server.vcxproj -> ..\login-server.pdb (Full PDB)
