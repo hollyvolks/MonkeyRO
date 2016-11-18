@@ -4,12 +4,12 @@
 	<servicetype>america</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-		<display>Servidor de Testes</display>
-      	<address>158.69.104.173</address>
+		<display>MonkeyRO - Ilha da Macacada</display>
+      	<address>63.143.54.119</address>
       	<port>6900</port>
       	<version>55</version>
       	<langtype>12</langtype>
-		<registrationweb>www.playrag.com.br</registrationweb>
+		<registrationweb>www.monkeyro.com.br</registrationweb>
 		<loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>
